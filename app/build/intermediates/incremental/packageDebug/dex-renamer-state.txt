@@ -1,0 +1,7 @@
+#Wed Nov 08 17:57:33 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\SmsValidation-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_548effe5464824354e697ff772f3dff1576c44fd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\SmsValidation-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cf19602e8f461d0c5dcc190f18e819cd5265c7c4\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\SmsValidation-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cf19602e8f461d0c5dcc190f18e819cd5265c7c4
+file.0=C\:\\Users\\Administrator\\Desktop\\SmsValidation-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_548effe5464824354e697ff772f3dff1576c44fd\\classes.dex

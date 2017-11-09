@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\SmsValidation-master\app\libs\MobCommons-2017.0607.1736.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26d8b21098208806ac92abba3cbbf9859cda903a">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0607.1736_b66e49b6e3d01f62a2437970ff30892422b45f10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\812ab221951abad69382a30fd9a2072ba32956dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbc4c2537071b3be108501a5ed268ef5d8162e64">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b55878d0e8b9ad51d6342a3b4bd4437ec4b36db9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf19602e8f461d0c5dcc190f18e819cd5265c7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e93ae680e398f0e5f4e58cea6261215d361d087">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_548effe5464824354e697ff772f3dff1576c44fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\SmsValidation-master\app\libs\MobTools-2017.0607.1736.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd18b5e54c100ded555e92c371c16bea49002ed">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0607.1736_a4c675afc096718acc3d42272faa30139b413751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\fdd244e836fe24f9b474ab9ad3e694e813a5e69e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f05ef472841da86c5b42cf99abcb3ccd63565e49">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25590406d886be9f2a0f49e26358a1133d5f6ee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c304a850e5018bb5f1e6242db89e9977f3704c6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a73459d769959ece21ba32852595ae1ae3828412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a7058f22879d13cf678738e2c8bca57390bc184d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Administrator\Desktop\SmsValidation-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e83a5f55876fffc345eedbc60535ea2d9fdda3a8\classes.dex" />
+    </item>
+
+</items>
